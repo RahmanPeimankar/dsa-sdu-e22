@@ -2,6 +2,8 @@
 
 Lecture 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e22/blob/master/Lecture%201/dsa-1-introduction.ipynb)
 
+Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e22/blob/master/Lecture%202/dsa-2-oopp.ipynb)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/dsa-sdu-e22/master)
 
 
