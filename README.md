@@ -6,6 +6,8 @@ Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e22/blob/master/Lecture%203/dsa-3-big-o-and-recursion.ipynb)
 
+Lecture 4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e22/blob/master/Lecture%204/dsa-4-array-based-sequence.ipynb)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/dsa-sdu-e22/master)
 
 
