@@ -10,6 +10,8 @@ Lecture 4: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 5: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e22/blob/master/Lecture%205/dsa-5-stacks-queues-deques.ipynb)
 
+Lecture 6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e22/blob/master/Lecture%206/dsa-6-linked_lists.ipynb)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/dsa-sdu-e22/master)
 
 
