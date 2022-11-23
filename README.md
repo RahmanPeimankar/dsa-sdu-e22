@@ -18,6 +18,10 @@ Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e22/blob/master/Lecture%209/dsa-9-hash-tables.ipynb)
 
+Lecture 10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e22/blob/master/Lecture%2010/dsa-10-sorted-maps-trees.ipynb)
+
+Lecture 11: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e22/blob/master/Lecture%2011/dsa-11-binary-trees.ipynb)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/dsa-sdu-e22/master)
 
 
